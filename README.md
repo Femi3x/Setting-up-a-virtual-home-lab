@@ -26,7 +26,7 @@ So what is virtualization anyway? Basically, the IT term virtualization refers t
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
 
 
-<img src="">     
+<img src="Folder/Host+3 guest virtual machines.png">     
 
 
 
