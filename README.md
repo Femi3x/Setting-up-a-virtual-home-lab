@@ -48,7 +48,7 @@ In this setup I will be using Oracle VM VirtualBox because it is compatible with
 Download Oracle VM VirtualBox by cliking here(https://www.virtualbox.org/). Once the download completes, I launched the installation.
 
 
-<img src="Folder/VirtualBox-Complete.jpg">
+<img src="Folder/VirtualBox-Install.jpg">
 
 
 
@@ -56,6 +56,15 @@ Download Oracle VM VirtualBox by cliking here(https://www.virtualbox.org/). Once
 
 
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you need to select "yes'.
+
+
+<img src=""       >
+
+
+
+
+
+
 
 Click Finish and launch VirtualBox.
 
