@@ -237,7 +237,7 @@ I am going to leave all of these options at default... so I am done creating the
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and use a NAT Network.
 
 
-<img src"">
+<img src="Folder/VM-Network.jpg">
 
 
 
@@ -248,7 +248,7 @@ Configure the Networking tab for your chosen network type. Again, the easiest so
 
 
 
-Downloading Your operating systems ISO(s)
+<h2>Downloading Your operating systems ISO(s)</h2>
 Next we need an operating system (OS) to install on our Virtual Machines. You could do this with a physical disc if you wanted, but most of the time you will want to download an ISO for OS installations.
  
 The easiest way to find what you're looking for is to simply google the name of your operating system with "ISO download" in the search.  For example if you want Windows Server 2016, just search 
@@ -263,7 +263,7 @@ Centos 7
 Ubuntu
 Kali Linux
 
-Installing an OS on Your Lab VMs
+<h2>Installing an OS on Your Lab VMs</h2>
 Once you have downloaded your ISO file, it's time to mount it to your VM in VirtualBox. Mounting a VM is essentially like virtually inserting a disc into a DVD drive of a computer.
  
 Right click on your VM and select settings then open the Storage tab. From there click the Empty disc icon, then again the disc icon under Attributes on the right hand side of the window. Click the Choose Virtual Optical Disk File... and browse to and open your desired ISO.
@@ -271,6 +271,17 @@ Right click on your VM and select settings then open the Storage tab. From there
 
 Click OK and now when we launch the VM you will be able to begin your OS installation.
 I mounted a Windows Server 2016 ISO so when I launch the VM I will see the installation screen for this OS.
+
+
+
+
+
+
+
+
+
+
+
 
 Now you can run through your OS installation and complete your lab setup.
 Wrapping it Up...
