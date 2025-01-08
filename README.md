@@ -203,7 +203,16 @@ This is essentially the same as an internal network, except that your host compu
 You can create a host-only network by select File > Host Network Manager
 
 
-Generic Driver
+<img src="Folder/Host-Only-Network-Adapters.jpg">
+
+
+
+
+
+
+
+
+<h2>Generic Driver</h2>
 Oracles documentation for the generic driver states:
 The generic driver attachment is special and cannot be considered as an alternative to other attachment types.
 
@@ -212,6 +221,16 @@ I am going to use a NAT Network since this will allow me to connect my VMs to ea
 First I will select File > Preferences, then navigate to the Network tab. Next I will click the plus button (circled in the image above).
 
 This will create a new NAT Network. If I want to modify the subnet, disable DHCP or support IPv6 I can do this by double-clicking the NAT Network.
+
+
+
+
+
+
+
+
+
+
 
 
 I am going to leave all of these options at default... so I am done creating the Virtual Network!
